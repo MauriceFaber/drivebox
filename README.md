@@ -3,6 +3,12 @@
 
 Here you can download the appropriate firmware releases for your "Stery" box. Please note the update procedure.
 
+### Project
+This part contains to the "drivebox" project.
+
+![Anmerkung 2023-02-22 095525](https://user-images.githubusercontent.com/67681325/220570950-3587cb48-8369-40d0-997e-3001696b779d.png)
+
+
 ## Update Instructions
 Here you can find the update instructions for your device.
 

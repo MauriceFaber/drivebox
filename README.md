@@ -6,7 +6,7 @@ This part contains to the "drivebox" project.
 Here you can download the appropriate firmware releases for your drivebox. Please note the update procedure.
 
 ## Hardware
-<img width="987" alt="Bildschirm­foto 2023-03-01 um 23 52 22" src="https://user-images.githubusercontent.com/67681325/222283895-61a9951b-fb7e-4331-b425-e8faab0fdfb9.png">
+<img width="798" alt="Bildschirm­foto 2023-03-01 um 23 55 15" src="https://user-images.githubusercontent.com/67681325/222285037-1328005e-6f1a-4541-a973-bf0a6c903d93.png">
 
 ## Update Instructions
 Here you can find the update instructions for your device.

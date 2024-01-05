@@ -15,5 +15,5 @@ Here you can find the update instructions for your device.
 1. Download the latest firmware.bin from release page.
 2. Go to the OTA update page on your device or enter the url directly (http://192.168.4.1/update)
 3. Selecte Firmware and upload the firmware file
-4. Wait for for device to reboot
+4. Wait for device to reboot
 5. You may have to reconnect to the devices WiFi

@@ -8,6 +8,7 @@ Here you can download the appropriate firmware releases for your drivebox. Pleas
 ## Hardware
 ### V1.4
 <img width="798" alt="Bildschirm­foto 2023-03-01 um 23 55 15" src="https://user-images.githubusercontent.com/67681325/222285037-1328005e-6f1a-4541-a973-bf0a6c903d93.png">
+
 ### V1.4-2
 <img width="798" alt="Bildschirmfoto 2024-06-18 um 22 10 27" src="https://github.com/MauriceFaber/drivebox/assets/67681325/24cc496e-1a22-4baa-b7e4-9896d086b677">
 <img width="798" alt="Bildschirmfoto 2024-06-18 um 22 15 09" src="https://github.com/MauriceFaber/drivebox/assets/67681325/95f3bbe1-607c-4609-80bd-ceef3b330972">

@@ -26,3 +26,18 @@ Info: default password of the access point "123455678".
 3. Selecte Firmware and upload the firmware file
 4. Wait for device to reboot
 5. You may have to reconnect to the devices WiFi
+
+## Software
+//tbd
+
+### CAN
+CAN bus termination on CAN1_TERM or CAN2_TERM may necessary. Typically both ends of a CAN bus are terminated. 
+When using CAN1 on older Cars that haven't got a comfort CAN installed, you maybe connect only drivebox to a head unit. Then the CAN1_TERM is necessary to be switched on. 
+If you connect CAN2 to an existing motor CAN you don't have to enable CAN2_TERM.
+
+#### CAN1
+CAN1 is designed to be VAG like comfort CAN. Bitrate is set to 100 kBit/s.
+
+#### CAN2
+CAN2 is designed to be VAG like motor CAN. Bitrate is set to 500 kBit/s.
+

@@ -28,7 +28,7 @@ Info: default password of the access point "123455678".
 5. You may have to reconnect to the devices WiFi
 
 ## Software
-//tbd
+//tbd -> there is no complete manual yet.
 
 ### CAN
 CAN bus termination on CAN1_TERM or CAN2_TERM may necessary. Typically both ends of a CAN bus are terminated. 
@@ -41,3 +41,5 @@ CAN1 is designed to be VAG like comfort CAN. Bitrate is set to 100 kBit/s.
 #### CAN2
 CAN2 is designed to be VAG like motor CAN. Bitrate is set to 500 kBit/s.
 
+### Steering Wheel
+Connect the three Pins of the drivebox "GND", "LIN", "VBAT" directly to your steering wheel. If you have a steering wheel that doesn't go into sleep mode, you could connect f.e. ignition voltage to the steering wheel.

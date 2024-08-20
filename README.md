@@ -10,8 +10,8 @@ Some key points of the upcomming device:
 - 8x sensor inputs (analogue 5V, e.g. boost pressure sensor)
 - 8x switching outputs (4x GND, 4x 12V)
 - Output for smart LEDs (WS2812/SK6812, e.g. ambient lighting, shift light)
--I2C display output (‘FIS lines’ on external display, passenger display for speed or rpm, measured value output)
--I2C sensor (gyro sensor for G-force display)
+- I2C display output (‘FIS lines’ on external display, passenger display for speed or rpm, measured value output)
+- I2C sensor (gyro sensor for G-force display)
 
 # Latest drivebox (HW V1.4-X)
 

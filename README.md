@@ -3,7 +3,17 @@ This part contains to the "drivebox" project.
 
 ![Anmerkung 2023-02-22 095525](https://user-images.githubusercontent.com/67681325/220570950-3587cb48-8369-40d0-997e-3001696b779d.png)
 
-Here you can download the appropriate firmware releases for your drivebox. Please note the update procedure.
+# NEWS - Upcoming hardware development
+I can proudly announce that I am already collecting new ideas for a new development of the drivebox.
+
+Some key points of the upcomming device:
+- 8x sensor inputs (analogue 5V, e.g. boost pressure sensor)
+- 8x switching outputs (4x GND, 4x 12V)
+- Output for smart LEDs (WS2812/SK6812, e.g. ambient lighting, shift light)
+-I2C display output (‘FIS lines’ on external display, passenger display for speed or rpm, measured value output)
+-I2C sensor (gyro sensor for G-force display)
+
+# Latest drivebox (HW V1.4-X)
 
 ## Hardware
 ### V1.4
@@ -16,7 +26,7 @@ Updated Hardware (2024)
 <img width="798" alt="Bildschirmfoto 2024-06-18 um 22 10 27" src="https://github.com/MauriceFaber/drivebox/assets/67681325/24cc496e-1a22-4baa-b7e4-9896d086b677">
 
 ## Update Instructions
-Here you can find the update instructions for the device.
+Here are the update instructions for the device.
 
 Info: default password of the access point "123455678".
 

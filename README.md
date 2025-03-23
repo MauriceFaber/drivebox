@@ -7,7 +7,7 @@ This part contains to the "drivebox" project.
 I can proudly announce that I am already collecting new ideas for a new development of the drivebox.
 
 Some key points of the upcomming device:
-- 8x sensor inputs (analogue 5V, e.g. boost pressure sensor)
+- 4x sensor inputs (analogue 5V, e.g. boost pressure sensor)
 - 8x switching outputs (4x GND, 4x 12V)
 - Output for smart LEDs (WS2812/SK6812, e.g. ambient lighting, shift light)
 - I2C display output (‘FIS lines’ on external display, passenger display for speed or rpm, measured value output)
